@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[testimonial by="John Doe" photo="" locality="City" region="State" postcode="" country="USA"]
+
+h5. Testimonial title
+
+Testimonial content.
+
+[/testimonial]</string>
+	<key>name</key>
+	<string>testimonial</string>
+	<key>tabTrigger</key>
+	<string>testimonial</string>
+	<key>uuid</key>
+	<string>09EDA0B5-0E89-48E3-B2DE-B9A157AC59C0</string>
+</dict>
+</plist>

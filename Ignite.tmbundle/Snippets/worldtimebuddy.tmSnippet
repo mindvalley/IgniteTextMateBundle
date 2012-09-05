@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[worldtimebuddy time="4pm December 21" duration="2 hours" timezone_id="8"]</string>
+	<key>name</key>
+	<string>worldtimebuddy</string>
+	<key>tabTrigger</key>
+	<string>wtb</string>
+	<key>uuid</key>
+	<string>9D0FD328-F0E3-46B1-9422-FB32D88478FA</string>
+</dict>
+</plist>
