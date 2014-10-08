@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>!(caption)assets/images/yourimages.jpg(Caption)!</string>
+	<string>[div class=""]
+
+[/div]</string>
 	<key>name</key>
-	<string>caption</string>
+	<string>divtag</string>
 	<key>tabTrigger</key>
-	<string>caption</string>
+	<string>divtag</string>
 	<key>uuid</key>
-	<string>588C7590-3567-4B2F-8E8F-2474C15499C3</string>
+	<string>FE4AD237-13AE-41EF-B1DE-9CC8FF59C969</string>
 </dict>
 </plist>

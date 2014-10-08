@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[div class="social-center"]
+    
+	[facebook_share url="Your URL"]
+    
+	[twitter url="Your URL"]
+    
+	[gplus url="Your URL"]
+    
+	[email_share url="Your URL"]
+    
+[/div]</string>
+	<key>name</key>
+	<string>social</string>
+	<key>tabTrigger</key>
+	<string>social</string>
+	<key>uuid</key>
+	<string>39E80E02-F5DB-4337-94F3-4F9DB395A4F6</string>
+</dict>
+</plist>

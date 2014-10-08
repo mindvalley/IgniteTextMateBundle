@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>!(caption)assets/images/yourimages.jpg(Caption)!</string>
+	<string>[facebook title="#" description="#" image="#" url="#" //type="website"]</string>
 	<key>name</key>
-	<string>caption</string>
+	<string>fb</string>
 	<key>tabTrigger</key>
-	<string>caption</string>
+	<string>og</string>
 	<key>uuid</key>
-	<string>588C7590-3567-4B2F-8E8F-2474C15499C3</string>
+	<string>AD4CF0FC-97DE-4A0B-A26F-53D91B2B4F8C</string>
 </dict>
 </plist>
