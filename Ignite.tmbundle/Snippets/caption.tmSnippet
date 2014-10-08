@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>!(caption)/images/(Caption)!</string>
+	<string>!(caption)assets/images/yourimages.jpg(Caption)!</string>
 	<key>name</key>
 	<string>caption</string>
 	<key>tabTrigger</key>

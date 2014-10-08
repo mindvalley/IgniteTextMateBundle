@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>!(compose)/images/!</string>
+	<string>!/assets/images/yourimages.jpg!</string>
 	<key>name</key>
 	<string>img</string>
 	<key>tabTrigger</key>

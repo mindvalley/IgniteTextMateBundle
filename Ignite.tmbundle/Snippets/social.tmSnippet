@@ -3,14 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>[div class=""]
-
+	<string>[div class="social-center"]
+    
+	[facebook_share url="Your URL"]
+    
+	[twitter url="Your URL"]
+    
+	[gplus url="Your URL"]
+    
+	[email_share url="Your URL"]
+    
 [/div]</string>
 	<key>name</key>
-	<string>div</string>
+	<string>social</string>
 	<key>tabTrigger</key>
-	<string>div</string>
+	<string>social</string>
 	<key>uuid</key>
-	<string>FE4AD237-13AE-41EF-B1DE-9CC8FF59C969</string>
+	<string>39E80E02-F5DB-4337-94F3-4F9DB395A4F6</string>
 </dict>
 </plist>

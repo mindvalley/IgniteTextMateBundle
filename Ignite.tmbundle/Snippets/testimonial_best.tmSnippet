@@ -7,9 +7,9 @@
 [//testimonials tag="from_url_param" url_part="1" best="10"]
 [//testimonials tag="finding-happiness" best="10"]</string>
 	<key>name</key>
-	<string>testimonials</string>
+	<string>testimonial_best</string>
 	<key>tabTrigger</key>
-	<string>testimonials</string>
+	<string>testimonial_best</string>
 	<key>uuid</key>
 	<string>B44C624E-61A5-45F6-A1BD-FF263754AB64</string>
 </dict>

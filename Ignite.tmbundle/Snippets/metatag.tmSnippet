@@ -9,9 +9,9 @@
 [canonical url="/"]
 [hide value="header, helpbar, headernav, directory, footer, footernav"]</string>
 	<key>name</key>
-	<string>meta</string>
+	<string>metatag</string>
 	<key>tabTrigger</key>
-	<string>meta</string>
+	<string>metatag</string>
 	<key>uuid</key>
 	<string>A1065710-2F28-4603-BCFB-120BA51A9A3C</string>
 </dict>
